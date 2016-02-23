@@ -1,4 +1,4 @@
-﻿#ifndef language_zh_cn_h
+#ifndef language_zh_cn_h
 #define language_zh_cn_h
 /*
  * language_zh_cn.h
